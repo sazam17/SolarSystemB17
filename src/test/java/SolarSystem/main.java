@@ -17,6 +17,7 @@ public class main {
       sun.color= "black";
       sun.temp="-1223124kelvin";
 
+<<<<<<< HEAD
       //******Planet2*********
 
       Planet2 xaros= new Planet2();
@@ -25,5 +26,13 @@ public class main {
       xaros.size ="323432234km";
 
 
+=======
+//*************Planet1********
+      Planet1 plato = new Planet1();
+      plato.color="green";
+      plato.name="abracadabra";
+      plato.radius="800000km";
+      plato.temp="10000000k";
+>>>>>>> FeaturePlanet1
   }
 }
